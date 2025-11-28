@@ -24,6 +24,15 @@ Link para submissão: [LeetCode - 787](https://leetcode.com/problems/cheapest-fl
 
 ---
 
+### 1235: Maximum Profit in Job Scheduling
+Neste exercício, o objetivo é maximizar o lucro ao agendar trabalhos que não se sobrepõem. A solução envolve ordenar os trabalhos por tempo de término e usar programação dinâmica para calcular o lucro máximo possível, considerando trabalhos compatíveis.
+
+Arquivo: `1235.py`
+
+![Solução Exercício 1235](./Imagens/1235.png)
+
+Link para submissão: [LeetCode - 1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling/submissions/1841945290/?source=submission-ac)
+
 ## Vídeo Explicativo
 
 Link do vídeo: [Vídeo Explicativo]()
