@@ -33,6 +33,15 @@ Arquivo: `1235.py`
 
 Link para submissão: [LeetCode - 1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling/submissions/1841945290/?source=submission-ac)
 
+### 10: Regular Expression Matching
+Neste exercício, o objetivo é implementar um algoritmo que verifica se uma string corresponde a um padrão de expressão regular que inclui os caracteres '.' e '*'. A solução utiliza programação dinâmica para construir uma tabela que representa as correspondências entre substrings da string e do padrão.
+
+Arquivo: `10.py`
+
+![Solução Exercício 10](./Imagens/10.png)
+
+Link para submissão: [LeetCode - 10](https://leetcode.com/problems/regular-expression-matching/submissions/1843721096/?envType=problem-list-v2&envId=dynamic-programming)
+
 ## Vídeo Explicativo
 
 Link do vídeo: [Vídeo Explicativo]()
